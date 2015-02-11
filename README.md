@@ -27,3 +27,7 @@ Beginner rogue-like platformer game.
  * _A: No, screw you_
 
 * End of Q&A
+
+[croy037]: https://github.com/croy037
+[endorphins]: https://github.com/endorphins
+[jacobhong]: https://github.com/jacobhong
